@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Strona główna</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        nav {
+            margin-bottom: 20px;
+        }
+        .link {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>INDEX</h1>
+
+
+ 
+    <a href="Tabela.jpeg" download>Tabela</a><br>
+    <a href="Poczta.html" download>Poczta</a><br>
+   <a href="Dowcipi.html" download>Dowcipy</a><br>
+   <a href="Nazwisko.html" download>Nazwisko</a><br>
+    
+
+
+
+
+</body>
+</html>
+
